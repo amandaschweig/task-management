@@ -31,8 +31,8 @@ func main() {
 
 	task2 := Task{
 		ID:          2,
-		Title:       "Criar API REST",
-		Description: "Desenvolver API RESTful para interação com o frontend",
+		Title:       "Criar tanana tanana",
+		Description: "Desenvolver tanana tanana",
 		Assignee:    user2,
 		DueDate:     time.Now().AddDate(0, 0, 14),
 		Status:      "In Progress",
